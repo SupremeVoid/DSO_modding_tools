@@ -1,0 +1,117 @@
+# .aim asset paths referenced by DarkStarOne.exe
+#
+# These are the paths as the engine requests them, i.e. the path INSIDE the
+# .cpr archive. To override a file with a loose copy, mirror the same path
+# relative to the game root.
+#
+# Not exhaustive: assets requested from UI layouts or Lua scripts rather than
+# from code do not appear here (Auftraege.aim, for one).
+
+3DView/Images/   (1 files)
+    hud.aim
+
+images/   (10 files)
+    Radar_Feind.aim
+    Radar_Feind_selektiert.aim
+    Radar_Forschung_Asteroid.aim
+    Radar_Forschung_selektiert.aim
+    Radar_Freund.aim
+    Radar_Freund_selektiert.aim
+    Radar_Handel_selektiert.aim
+    Radar_Handelsstation.aim
+    Radar_Waypoint.aim
+    Radar_Waypoint_selektiert.aim
+
+staticImages/   (30 files)
+    Class_military.aim
+    Class_secret.aim
+    Class_standard.aim
+    Cluster_marker_down_left.aim
+    Cluster_marker_down_right.aim
+    Cluster_marker_up_left.aim
+    Cluster_marker_up_right.aim
+    MissionSymbol.aim
+    ND_CrimeStar.aim
+    ND_CrimeStarEmpty.aim
+    Nav_start_marker.aim
+    Nav_target_marker.aim
+    SidequestSymbol.aim
+    StarA0.aim
+    StarA1.aim
+    StarA2.aim
+    StarArtefakt.aim
+    StarB0.aim
+    StarB1.aim
+    StarB2.aim
+    StarC0.aim
+    StarC1.aim
+    StarC2.aim
+    StarHostile.aim
+    StarKeyless.aim
+    Sternen_Gross.aim
+    StorySymbol.aim
+    targetarrow.aim
+    visorarrow.aim
+    yahoo.aim
+
+staticImages/Cluster/   (2 files)
+    cluster%02d.aim
+    cluster_hintergrund.aim
+
+staticImages/IconGoods/   (48 files)
+    Androiden_big.aim
+    Androiden_small.aim
+    Brennstaebe_big.aim
+    Brennstaebe_small.aim
+    Chemikalien_big.aim
+    Chemikalien_small.aim
+    Computer_big.aim
+    Computer_small.aim
+    Drogen_big.aim
+    Drogen_small.aim
+    Duenger_big.aim
+    Duenger_small.aim
+    Edelmetalle_big.aim
+    Edelmetalle_small.aim
+    Elektronik_big.aim
+    Elektronik_small.aim
+    Energiezellen_big.aim
+    Energiezellen_small.aim
+    Isotope_big.aim
+    Isotope_small.aim
+    Kohlenhydrate_big.aim
+    Kohlenhydrate_small.aim
+    Kristalle_big.aim
+    Kristalle_small.aim
+    Lebensformen_big.aim
+    Lebensformen_small.aim
+    Legierungen_big.aim
+    Legierungen_small.aim
+    Luxus_big.aim
+    Luxus_small.aim
+    Maschinen_big.aim
+    Maschinen_small.aim
+    Medizin_big.aim
+    Medizin_small.aim
+    Metalle_big.aim
+    Metalle_small.aim
+    Pflanzenfasern_big.aim
+    Pflanzenfasern_small.aim
+    Proteine_big.aim
+    Proteine_small.aim
+    Schiffstechnik_big.aim
+    Schiffstechnik_small.aim
+    Spirituosen_big.aim
+    Spirituosen_small.aim
+    Supraleiter_big.aim
+    Supraleiter_small.aim
+    Videospiele_big.aim
+    Videospiele_small.aim
+
+staticImages/Military/   (6 files)
+    Rang0.aim
+    Rang1.aim
+    Rang2.aim
+    Rang3.aim
+    Rang4.aim
+    Rang5.aim
